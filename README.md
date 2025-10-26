@@ -23,7 +23,8 @@
 - 🔹 [NutriCook](https://github.com/NguyenHoangLe0701/NutriCook): Nutrition app for calculating calories and suggesting healthy meals  
 - 🔹 [Healthmate-Care-System](https://github.com/NguyenHoangLe0701/Healthmate-Care-System): Health management system with booking, chatbot, and statistics  
 - 🔹 [HomeMobile](https://github.com/NguyenHoangLe0701/HomeMobile): Kotlin-based mobile app for smart home control  
-
+- 🔹 [DjangoWebBikeRental](https://github.com/NguyenHoangLe0701/DjangoWebBikeRetal): Smart bike rental web system using Django, Docker & Selenium  
+- 🔹 [PickleCoach-AI](https://github.com/phu-boop/PickleCoach-AI): AI-powered Pickleball coaching assistant with speech-to-text and chatbot integration  
 ---
 
 ### 🧠 Languages and Tools
