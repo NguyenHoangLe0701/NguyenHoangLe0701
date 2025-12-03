@@ -35,9 +35,9 @@
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NguyenHoangLe0701&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NguyenHoangLe0701&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenHoangLe0701&theme=radical" alt="GitHub Streak" />
