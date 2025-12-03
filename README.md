@@ -36,12 +36,10 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NguyenHoangLe0701&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NguyenHoangLe0701&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenHoangLe0701&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
 </div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenHoangLe0701&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 
